@@ -1,3 +1,4 @@
 Name: Palash
 Dreams:Big
 Hotel:Trivago
+Speed:slow
